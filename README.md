@@ -6,6 +6,7 @@ This repository contains the legal documents for Ponder Journal, a spiritual jou
 
 - [Privacy Policy](PRIVACY_POLICY.md) - Last Updated: September 29, 2025
 - [Terms of Service](TERMS_OF_SERVICE.md) - Effective Date: September 29, 2025
+- [Support](SUPPORT.md) - Contact and FAQ
 
 ## Direct Links
 
@@ -13,6 +14,7 @@ Once this repository is pushed to GitHub, you can access the documents at:
 
 - Privacy Policy: `https://github.com/emielmadonna/PonderApp-/blob/main/PRIVACY_POLICY.md`
 - Terms of Service: `https://github.com/emielmadonna/PonderApp-/blob/main/TERMS_OF_SERVICE.md`
+- Support: `https://github.com/emielmadonna/PonderApp-/blob/main/SUPPORT.md`
 
 ## Contact
 
